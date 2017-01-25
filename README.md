@@ -1,4 +1,4 @@
-#Study HTML by Looking At Real Pages
+#Study HTML by Looking at Examples of Real Pages
 
 A look at how large organisations such as the EPA make their websites. Ideal for people who want to learn computers.
 
@@ -13,3 +13,5 @@ Check out the map, it's SVG.
 Fun fact! See if your State is mentioned in the list of PDFs https://climatechanger.github.io/epa-lesson/by-state.html
 
 Have fun learning HTML and computers.
+
+No PRs required...
